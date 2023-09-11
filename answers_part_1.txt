@@ -1,0 +1,7 @@
+question 1: 2.1.0
+question 2: 10
+question 3: total bedrooms
+question 4: 5
+question 5: 259212
+question 6: no
+question 7: 5.6992
