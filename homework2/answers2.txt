@@ -1,0 +1,6 @@
+question 1: total_bedrooms
+question 2: 1195
+question 3: both are equally good
+question 4: 0.001
+question 5: 0.005
+question 6: 0.23
